@@ -1,5 +1,7 @@
 {
   "name": "cv",
   "dependencies": {
+    "bootstrap": "^3.3.7",
+    "semantic-ui": "^2.2.13"
   }
 }
