@@ -10,9 +10,7 @@ Router.map(function() {
     this.route("summary");
     this.route("ver");
     this.route("americanapparel");
-    this.route("gherytechnologies");
-    this.route("calpoly");
-    this.route("notredame");
+    this.route("education");
     this.route("skills");
     this.route("interests");
     this.route("influences");
